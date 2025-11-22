@@ -1,7 +1,5 @@
 # Metodología – TryHackMe: Ice
 
-Basado en el informe (págs. 2–3) fileciteturn8file0:
-
 1. **Reconocimiento**
    - `nmap` para detectar servicio Icecast en puerto 8000.
 

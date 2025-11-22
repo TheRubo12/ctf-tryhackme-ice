@@ -1,7 +1,5 @@
 # Hallazgos Principales – TryHackMe: Ice
 
-Según el informe (págs. 2–4) fileciteturn8file0:
-
 ## 1. Icecast CVE‑2004‑1561 – RCE
 - **Severidad:** Crítica
 - Permite ejecución remota de código vía HTTP (puerto 8000).

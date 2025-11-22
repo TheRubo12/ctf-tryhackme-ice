@@ -1,7 +1,6 @@
 # CTF – TryHackMe: Ice
 
 Repositorio del laboratorio **Ice** de TryHackMe.  
-Según el informe (págs. 1–4) fileciteturn8file0:
 
 ## Resumen del laboratorio
 - Explotación de **Icecast CVE‑2004‑1561** (pág. 2).  
